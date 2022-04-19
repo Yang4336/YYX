@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace;
+
+int main()
+{
+  cout<<"打印"<<endl;
+  return 0;
+  }
+  
